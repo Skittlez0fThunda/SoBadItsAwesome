@@ -1,6 +1,7 @@
 body {
 	color:black;
 	background-color:#ffffff;
+	padding:20px;
 }
 @font-face {
     font-family:lovelo-black;
@@ -73,6 +74,3 @@ img {
 	height:200px;
 }
 
-#funnyjoke{
-	padding-left: 20px;
-	}
